@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**laerson-hammes/laerson-hammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+&nbsp;
+### Sobre mim
+<p> Meu nome é Laerson Hammes, tenho 21 anos. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Sou apaixonado pelo mundo da tecnologia, em específico, o da programação e, por consequência, sempre busquei / busco estar em constante evolução, aprendendo novas linguagens / ferramentas. Atualmente, estou me dedicando com bastante intensidade em Python, uma linguagem que simplesmente me conquistou pela sua praticidade. </p>
+
+
+&nbsp;
+### Habilidades / Conhecimentos
+- Python
+- MySQL
+- CSS
+- PHP
+- Bootstrap
+- HTML
+
+
+&nbsp;
+### Onde me encontrar
+<a href="https://www.linkedin.com/in/laersonhammes/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin" alt="Linkedin"></img>
+</a>
+<a href="https://www.instagram.com/laerson_hammes/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"></img>
+</a>
