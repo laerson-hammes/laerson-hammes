@@ -17,9 +17,9 @@
   <img align="center" alt="Laerson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Laerson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Laerson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Laerson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/php-original.svg">
-  <img align="center" alt="Laerson-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/mysql-original.svg">
-  <img align="center" alt="Laerson-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/bootstrap-original.svg">
+  <img align="center" alt="Laerson-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="Laerson-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Laerson-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
   
 &nbsp;
