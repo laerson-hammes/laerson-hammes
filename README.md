@@ -21,15 +21,6 @@
   <img align="center" alt="Laerson-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Laerson-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
-  
-&nbsp;
-### Habilidades / Conhecimentos
-- Python
-- MySQL
-- CSS
-- PHP
-- Bootstrap
-- HTML
 
 
 &nbsp;
