@@ -7,6 +7,11 @@
 
 <p> Sou apaixonado pelo mundo da tecnologia, em específico, o da programação e, por consequência, sempre busquei / busco estar em constante evolução, aprendendo novas linguagens / ferramentas. Atualmente, estou me dedicando com bastante intensidade em Python, uma linguagem que simplesmente me conquistou pela sua praticidade. </p>
 
+<div align="center">
+  <a href="https://github.com/laerson-hammes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laerson-hammes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laerson-hammes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 &nbsp;
 ### Habilidades / Conhecimentos
