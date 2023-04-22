@@ -1,7 +1,7 @@
 ### Olá 👋
 
 <div>
-  <p> Meu nome é Laerson Hammes, tenho 21 anos. </p>
+  <p> Meu nome é Laerson Hammes, tenho 22 anos. </p>
   <p> Sou apaixonado pelo mundo da tecnologia, em específico, o da programação e, por consequência, sempre busquei / busco estar em constante evolução, aprendendo novas linguagens / ferramentas. Atualmente, estou me dedicando com bastante intensidade em Python, uma linguagem que simplesmente me conquistou pela sua praticidade. </p>
 </div>
 
