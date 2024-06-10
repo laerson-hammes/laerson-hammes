@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/laerson_hammes/" title="Instagram">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"></img>
   </a>
-  <a href="mailto:laersonha@gmail.com">
+  <a href="mailto:laerson.hammes@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
