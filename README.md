@@ -77,6 +77,6 @@ Atualmente, meus principais interesses são:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/laerson_hammes/">
+<a href="https://www.instagram.com/laerson.hammes/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
